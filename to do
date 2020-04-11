@@ -1,0 +1,18 @@
+nmap -sP 192.168.1.0/24
+
+Recup donnée IP + HOSTNAME
+
+client 
+
+demande de totale de donnée utilisée 
+=> app linux windows android 
+
+affichage graphique 
+5min 30min 1h 2h
+
+server 
+
+regroupage des donnés
+envoie des données
+speedtest band passant global
+
